@@ -2,6 +2,7 @@
 
 Don't Forget to download NodeJS and Python To use The DDos
 Download NodeJS : https://nodejs.org/dist/v14.17.3/node-v14.17.3-x64.msi
+
 Download Python : https://www.python.org/downloads/
 
 And Don't Forget to download Discord for python
